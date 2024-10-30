@@ -1,4 +1,4 @@
-# ola! eu Guilherme Junio
+# Olá ! sou Guilherme Junio
 ## desenvolvo sites e aplicaçoes web para o seu negocio
 <a href="https://github.com/GUILHERMEDEV-FRONT/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GUILHERMEDEV-FRONT" />
